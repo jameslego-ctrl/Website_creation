@@ -4,7 +4,11 @@
 ### **Brief Description**
 -------------------------
 
-A Streamlit-based application for uploading PDF files, extracting their content, and generating AI-powered summaries using Hugging Face's pre-trained LaMini-Flan-T5-248M language model and LangChain.
+A Streamlit-based application that allows users to upload a PDF file,extract its content,and generate an AI-generated summary of the content.The app uses huggingface's pre-t
+
+*
+*[Radhapyari's github link: ](https://github.com/RadhapyariDevi/Pdf-Summarizer-LLM/blob/main/README.md)
+*
 
 ### **Project Goal**
 --------------------
